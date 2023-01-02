@@ -1,0 +1,97 @@
+{
+	"plain_id":"AR494",
+	"plane_model":"Boeing 747",
+	"weight_tons":183.5,
+	"passengers": 416,
+	"company":"Lutansa",
+	"flight plan":[
+		"Warsaw",
+		"Frankfurt",
+		"Paris"
+	]
+}
+{
+	"plain_id":"KL634",
+	"plane_model":"Airbus A319",
+	"weight_tons":35.4,
+	"passengers": 160,
+	"company":"Air Fance",
+	"flight plan":[
+		"Washington",
+		"London",
+		"Stockholm",
+		"Warsaw"
+	]
+
+}
+{
+	"plain_id":"BR078",
+	"plane_model":"Airbus A340-600",
+	"weight_tons":177.8,
+	"passengers": 320,
+	"company":"Irtish Airlines",
+	"flight plan":[
+		"Berlin",
+		"Warsaw",
+		"Istanbul"
+	]
+}
+{
+	"plain_id":"OP008",
+	"plane_model":"Boeing 787",
+	"weight_tons":183.5 ,
+	"passengers": 416,
+	"company":"Runair",
+	"flight plan":[
+		"Rome",
+		"Warsaw"
+	]
+}
+{
+	"plain_id":"UT331",
+	"plane_model":"Airbus A340-600",
+	"weight_tons":181.9,
+	"passengers": 370,
+	"company":"Irtish Airlines",
+	"flight plan":[
+		"Warsaw",
+		"Barselona",
+		"Lisbon",
+		"Mexico"
+	]
+}
+{
+	"plain_id":"PK476",
+	"plane_model":"Boeing 747",
+	"weight_tons":181.9,
+	"passengers": 370,
+	"company":"Lutansa",
+	"flight plan":[
+		"Warsaw",
+		"Helsinki"
+	]
+}
+{
+	"plain_id":"TO715",
+	"plane_model":"Airbus A340-600",
+	"weight_tons":181.9,
+	"passengers": 370,
+	"company":"Runair",
+	"flight plan":[
+		"Brussel",
+		"Salzburg",
+		"Warsaw"
+	]
+}
+{
+	"plain_id":"KH541",
+	"plane_model":"Boeing 747",
+	"weight_tons":183.5 ,
+	"passengers": 416,
+	"company":"Air Fance",
+	"flight plan":[
+		"Warsaw",
+		"Paris",
+		"London"
+	]
+}
